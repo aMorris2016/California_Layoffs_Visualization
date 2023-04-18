@@ -10,6 +10,6 @@ The dashboard provides insights into the scale and distribution by county of lay
 
 See interactive dashboard via this [link](https://public.tableau.com/shared/J3N5S4NRR?:display_count=n&:origin=viz_share_link)
 
-![image of the tableau dashboard visualizing the layoffs in California](https://github.com/aMorris2016/California_Layoffs_Visualization/blob/main/dashboard_Ca_layoffs.png)
+![image of the tableau dashboard visualizing the layoffs in California](https://github.com/aMorris2016/California_Layoffs_Visualization/blob/main/dashboard_layoffs.png)
 
 Get more information about Warn Act and list of WARN notices received by the California Employment Development Department here: https://edd.ca.gov/en/Jobs_and_Training/Layoff_Services_WARN
