@@ -1,4 +1,4 @@
-# California_Layoffs_Visualization
+# California Layoffs Visualization
 
 This dashboard, created in Tableau, visualizes layoffs in California using data aggregated from WARN records received by Employment Development Department from January 2020 to April 2023. 
 
